@@ -1,0 +1,4 @@
+The host 192.168.1.1 encountered an error
+The host 10.0.0.1 has recovered from a serious error
+Warning: system rebooted at 10:55
+Login from admin@172.16.2.66 rebooting
