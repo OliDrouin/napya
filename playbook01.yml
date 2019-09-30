@@ -1,0 +1,21 @@
+---
+
+- name: My first playbook
+  hosts: planetexpress
+  become: yes
+  gather_facts: yes
+  #hosts: ~^planetexpress
+  
+  tasks:
+
+  - name: Install figlet
+    apt:
+      name: figlet
+      state: present
+    when: ansible_os_family == "Debian"
+
+  - name: Install figlet
+    yum:
+      name: figlet
+      state: present
+    when: ansible_os_family == "RedHat"
