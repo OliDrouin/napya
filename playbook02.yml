@@ -1,0 +1,28 @@
+---
+
+- name: Gathering host information and output data 
+  hosts: all
+  become: yes
+  gather_facts: yes
+  #hosts: ~^planetexpress
+  
+  tasks:
+
+  - name: Create output folder
+    file:
+      name: "output"
+      state: directory
+    delegate_to: localhost
+
+  - name: Learning to work with copy to output data
+    copy:
+      content: "{{ ansible_env  }}"
+      dest: "output/hosts_{{ inventory_hostname }}.env"
+    delegate_to: localhost
+
+  - name: Output vars to nice json
+    copy:
+      content: "{{ hostvars[inventory_hostname] | to_nice_json }}"
+      dest: "output/vars_{{inventory_hostname}}.json"
+    delegate_to: localhost
+
