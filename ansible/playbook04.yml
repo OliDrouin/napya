@@ -1,0 +1,30 @@
+---
+- name: Defining vars with JSON
+  hosts: localhost
+  gather_facts: yes
+
+  vars: 
+    amz_ips: "{{ lookup('url', 'https://ip-ranges.amazonaws.com/ip-ranges.json', split_lines=False) }}"
+
+
+    astros: "{{ lookup('url', 'http://api.open-notify.org/astros.json', split_lines=True) }}"
+
+  tasks: 
+    - name: display vars
+      debug: 
+        var: astros
+        verbosity: 1 
+
+    - name: display people
+      debug:
+        var: astros.people
+        verbosity: 1 
+
+      
+    - name: display people
+      debug:
+        var: amz_ips
+        verbosity: 1 
+
+
+

@@ -1,0 +1,36 @@
+---
+- name: Defining vars with JSON
+  hosts: localhost
+  gather_facts: yes
+
+
+
+  vars: 
+    #aamz_ips: "{{ lookup('url', 'https://ip-ranges.amazonaws.com/ip-ranges.json', split_lines=False) }}"
+
+    file1: "{{ lookup('file', 'ex1.txt') }}"
+    file2: "{{ lookup('file', 'ex2.txt') }}"
+    astros: "{{ lookup('url', 'http://api.open-notify.org/astros.json', split_lines=True) }}"
+
+  tasks: 
+    - name: Render template
+      template: 
+        src: astros.j2
+        dest:  output/{{ansible_date_time.date}}_astros.iss.txt
+
+
+    - name: Use a loop
+      debug:
+        var: item
+      loop:
+        - "{{ file1 }}"
+        - "{{ file2 }}"
+
+    - name: Set fact
+      set_fact: 
+        totalfile: "{{ file1 }}\n{{file2}}"
+
+    - name: Output fact
+      debug: 
+        var: totalfile
+

@@ -1,0 +1,31 @@
+---
+
+- name: Jinja2 stuff 
+  hosts: all
+  become: yes
+  gather_facts: yes
+  #hosts: ~^planetexpress
+  
+  vars: 
+    job_ticket:  telus-4409
+    sys_eff: localhost
+    date_rendered: 2017-05-24
+    warnings: 
+      -
+        exception: ValueError
+        message: Cannot divide by cat
+      -          
+        exception: UserInterrrrrrupt
+        message: Luser presses CTL+C
+      -          
+        exception: UnexpectedEOF
+        message: Expected string, returned EOF
+
+
+  tasks:
+
+  - name: Create render template
+    template:
+     src: template.j2
+     dest: ~/worktodo.txt
+

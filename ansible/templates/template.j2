@@ -1,0 +1,18 @@
+{{ ansible_managed }}
+
+Job ticket number: {{ job_ticket }}
+
+System effected: {{ sys_eff }}
+
+Ticket date created: {{ date_rendered }}
+
+Data collected
+--------------
+
+
+{% for warning in warnings %}
+- {{ warning.exception }} - Create the followinf error message: {{ warning.message }}
+{% endfor %}
+
+
+date is {{ template_run_date }}
