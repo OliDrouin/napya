@@ -1,0 +1,694 @@
+    1  tmux list-sessions
+    2  tmux ls
+    3  pwd
+    4  ls -rlt
+    5  cd napya/
+    6  ls -lrt
+    7  mkdir files01
+    8  mv * files01/
+    9  ls -lrt
+   10  cd files01/
+   11  ls
+   12  cd ..
+   13  http http://api.opennotify.org/astros.json
+   14  apt-get install http
+   15  sudo apt-get install http
+   16  pip install http
+   17  sudo apt install python-pi
+   18  sudo apt install python-pip
+   19  y
+   20  sudo apt install python-pip
+   21  pip install http
+   22  http http://api.opennotify.org/astros.json
+   23  vim pythonjson02.py
+   24  chmod +x pythonjson02.py 
+   25  ./pythonjson02.py 
+   26  ls -lrt
+   27  ls -rlt
+   28  vi pythonjson02.py 
+   29  ./pythonjson02.py 
+   30  vi pythonjson02.py 
+   31  ./pythonjson02.py 
+   32  vi pythonjson02.py 
+   33  ./pythonjson02.py 
+   34  vi pythonjson02.py 
+   35  cp pythonjson02.py  pythonjson02.py.bak
+   36  vi pythonjson02.py
+   37  ./pythonjson02.py 
+   38  vi pythonjson02.py
+   39  ./pythonjson02.py 
+   40  vi pythonjson02.py
+   41  vi pythonjson02.py.bak 
+   42  ./pythonjson02.py.bak 
+   43  mv pythonjson02.py.bak  pythonjson02.py
+   44  vi pythonjson02.py 
+   45  ./pythonjson02.py.bak 
+   46  cp pythonjson02.py  pythonjson03.py 
+   47  vi pythonjson03.py 
+   48  ./pythonjson03.py 
+   49  vi pythonjson03.py 
+   50  cp pythonjson03.py  pythonjson04.py
+   51  vi pythonjson04.py 
+   52  ./pythonjson04.py 
+   53  vi pythonjson04.py 
+   54  ./pythonjson04.py 
+   55  vi pythonjson04.py 
+   56  ./pythonjson04.py 
+   57  vi pythonjson04.py 
+   58  ./pythonjson04.py 
+   59  vi pythonjson04.py 
+   60  ./pythonjson04.py 
+   61  vi pythonjson04.py 
+   62  ./pythonjson04.py 
+   63  vi pythonjson04.py 
+   64  ./pythonjson04.py 
+   65  ls -lrt
+   66  cat inventory 
+   67  cp pythonjson04.py  pythonjson05.py
+   68  vi pythonjson05.py 
+   69  ./pythonjson05.py 
+   70  vi pythonjson05.py 
+   71  cat inventory05 
+   72  vi pythonjson05.py 
+   73  ./pythonjson05.py 
+   74  vi pythonjson05.py 
+   75  ./pythonjson05.py 
+   76  ls -lrt
+   77  cat inventory05 
+   78  vi pythonjson05.py 
+   79  cp pythonjson05.py  pythonjson06.py
+   80  vi pythonjson06.py 
+   81  /usr/bin/python2
+   82  vi pythonjson06.py 
+   83  mv pythonjson06.py  pythonjson06-python2.py 
+   84  vi pythonjson06-python2.py 
+   85  ./pythonjson06-python2.py 
+   86  vi pythonjson06-python2.py 
+   87  ./pythonjson06-python2.py 
+   88  vi pythonjson06-python2.py 
+   89  ./pythonjson06-python2.py 
+   90  vi pythonjson06-python2.py 
+   91  ./pythonjson06-python2.py 
+   92  vi pythonjson06-python2.py 
+   93  ./pythonjson06-python2.py 
+   94  vi pythonjson06-python2.py 
+   95  ./pythonjson06-python2.py 
+   96  vi pythonjson06-python2.py 
+   97  ./pythonjson06-python2.py 
+   98  vi pythonjson06-python2.py 
+   99  ./pythonjson06-python2.py 
+  100  vi pythonjson06-python2.py 
+  101  ./pythonjson06-python2.py 
+  102  vi pythonjson06-python2.py 
+  103  ./pythonjson06-python2.py 
+  104  vi pythonjson06-python2.py 
+  105  ./pythonjson06-python2.py 
+  106  vi pythonjson06-python2.py 
+  107  ./pythonjson06-python2.py 
+  108  vi pythonjson06-python2.py 
+  109  ./pythonjson06-python2.py 
+  110  vi pythonjson06-python2.py 
+  111  ./pythonjson06-python2.py 
+  112  vi pythonjson06-python2.py 
+  113  vi pythonjson07.py
+  114  ls
+  115  mkdir json
+  116  mv pythonjson0* inventory*  json/
+  117  ls
+  118  ls -lrt
+  119  wget https://alta3.com/static/files/moxies.xls
+  120  wget https://alta3.com/static/files/movies.xls
+  121  ls -lrt
+  122  vi pythonexcel01.py
+  123  ls -lrt
+  124  vi pythonexcel01.py
+  125  chmoxd +x pythonexcel01.py 
+  126  chmod +x pythonexcel01.py 
+  127  ls -lrt
+  128  ./pythonexcel01.py 
+  129  vi pythonexcel01.py
+  130  ./pythonexcel01.py 
+  131  pip install pandas
+  132  ./pythonexcel01.py 
+  133  vi pythonexcel01.py
+  134  pip install pandas xlrd
+  135  ./pythonexcel01.py 
+  136  id
+  137  ls
+  138  ls -lrt
+  139  vi pythonexcel01.py 
+  140  ./pythonexcel01.py 
+  141  python3 -m pip install pandas xlrd
+  142  ./pythonexcel01.py 
+  143  vi pythonexcel01.py 
+  144  ./pythonexcel01.py 
+  145  vi pythonexcel01.py 
+  146  ./pythonexcel01.py 
+  147  cp pythonexcel01.py pythonexcel02.py 
+  148  vi pythonexcel02q
+  149  vi pythonexcel02.py 
+  150  ./pythonexcel01.py 
+  151  ./pythonexcel02.py 
+  152  cp pythonexcel02.py pythonexcel03.py
+  153  vi pythonexcel03.py 
+  154  ./pythonexcel02.py 
+  155  ./pythonexcel03.py 
+  156  vi pythonexcel03.py 
+  157  ./pythonexcel03.py 
+  158  cp pythonexcel03.py  pythonexcel04.py
+  159  vi pythonexcel04.py 
+  160  ./pythonexcel04.py 
+  161  python3 -m pip install openpyxl
+  162  ./pythonexcel04.py 
+  163  ls -lrt
+  164  cd 
+  165  cd .ssh/
+  166  cat id_rsa.pub 
+  167  ssh-keygen 
+  168  ls -lrt
+  169  cat id_rsa_git.pub 
+  170  vi config 
+  171  ls -lrt
+  172  pwd
+  173  ls
+  174  cd 
+  175  ls
+  176  ls -lrt
+  177  ls -lrt .ssh/
+  178  vi .ssh/
+  179  vi .ssh/config 
+  180  pwd
+  181  ls
+  182  cd napya/
+  183  git init
+  184  echo "# napya" >> README.md
+  185  git add README.md 
+  186  git commit -m "first commit"
+  187  git config --global user.email "olivier.drouin@telus.com"
+  188  git config --global user.email "olivier.drouin@outlook.com"
+  189  git config --global "Olivier Drouin"
+  190  git remote add origin git@github.com:OliDrouin/napya.git
+  191  vi ~/.ssh/config 
+  192  git push -u origin master
+  193  git remote -v
+  194  git pull
+  195  git pull origin master
+  196  git push -u origin master
+  197  git fetch
+  198  git status
+  199  git commit -m "first commit" 
+  200  git config --global user.name "Olivier Drouin"
+  201  git config --global user.email "olivier.drouin@outlook.com"
+  202  git commit -m "first commit" 
+  203  git push -u origin master
+  204  git add . 
+  205  git commit -m "First session"
+  206  git push
+  207  ls
+  208  mkdir excel
+  209  mv *.py excel/
+  210  ls
+  211  mv singlesheet.xlsx  movies.xls  excel/
+  212  git status
+  213  git add . 
+  214  git commit -m "Stash excel stuff to separate folder"
+  215  git push
+  216  mkdir data
+  217  rm -rf data/
+  218  vi data.txt
+  219  vim python_readfile_01.py
+  220  ls -lrt
+  221  chmod +x python_readfile_01.py 
+  222  ./python_readfile_01.py 
+  223  cp python_readfile_01.py  python_readfile_02.py 
+  224  vi python_readfile_02.py 
+  225  ./python_readfile_01.py 
+  226  ./python_readfile_02.py 
+  227  vi python_readfile_02.py 
+  228  ./python_readfile_02.py 
+  229  vi python_readfile_02.py 
+  230  ./python_readfile_02.py 
+  231  vi python_readfile_02.py 
+  232  ./python_readfile_02.py 
+  233  vi python_readfile_02.py 
+  234  cp python_readfile_02.py  python_readfile_03.py
+  235  vi python_readfile_03.py 
+  236  python3
+  237  vi python_readfile_03.py 
+  238  ./python_readfile_03.py 
+  239  vi python_readfile_03.py 
+  240  ./python_readfile_03.py 
+  241  vi python_readfile_03.py 
+  242  ./python_readfile_03.py 
+  243  vi python_readfile_03.py 
+  244  ./python_readfile_03.py 
+  245  ./python_readfile_03.py 23
+  246  vi python_readfile_03.py 
+  247  ./python_readfile_03.py 23
+  248  vi python_readfile_03.py 
+  249  ./python_readfile_03.py 23
+  250  vi python_readfile_03.py 
+  251  ./python_readfile_03.py 23
+  252  vi python_readfile_03.py 
+  253  ./python_readfile_03.py 23
+  254  vi python_readfile_03.py 
+  255  ./python_readfile_03.py 23
+  256  vi python_readfile_03.py 
+  257  ./python_readfile_03.py 23
+  258  ./python_readfile_03.py 23a
+  259  vi python_readfile_03.py 
+  260  cp python_readfile_03.py  python_error_handling01.py
+  261  ls -lrt
+  262  mkdir error_handling
+  263  mv python_error_handling01.py  error_handling/
+  264  vi python_readfile_03.py 
+  265  ./python_readfile_03.py 
+  266  ls -lrt
+  267  cat exce
+  268  cat exception.log 
+  269  ./python_readfile_03.py 
+  270  ./python_readfile_03.py
+  271  cat exce
+  272  cat exception.log 
+  273  ./python_readfile_03.py
+  274  cat exception.log 
+  275  ls
+  276  vi ls -lrt
+  277  ls -lrt
+  278  cp python_readfile_03.py  error_handling/python_error_handling02.py 
+  279  vi python_readfile_03.py 
+  280  vi python_readfile_02.py 
+  281  ./python_readfile_02.py 
+  282  ls -lrt
+  283  cat data_ips.txt 
+  284  vi python_readfile_02.py 
+  285  ./python_readfile_02.py 
+  286  cat data_ips.txt 
+  287  rm data_ips.txt 
+  288  ./python_readfile_02.py 
+  289  ls -lrt
+  290  vi python_readfile_02.py 
+  291  ./python_readfile_02.py 
+  292  ls -lrt
+  293  vi data.txt 
+  294  vi python_readfile_02.py 
+  295  ./python_readfile_02.py 
+  296  ls -lrt
+  297  vi python_readfile_02.py 
+  298  ./python_readfile_02.py 
+  299  ls -lrt
+  300  vi data_ips.txt 
+  301  vi python_readfile_02.py 
+  302  ls -lrt
+  303  vi python_readfile_02.py 
+  304  vi python_readfile_03.py 
+  305  cp  
+  306  cp python_readfile_03.py  python_readfile_04.py
+  307  vi python_readfile_04.py 
+  308  ls -lrt
+  309  cp data.txt  data2.txt
+  310  mkdir read_files
+  311  mv python_readfile_0* data.txt  data_ips.txt  read_files/
+  312  ls -rlt
+  313  cp exception.log   error_handling/
+  314  mv exception.log  read_files/
+  315  ls -rlt
+  316  git status
+  317  git add . 
+  318  git commit -m "Reading files"
+  319  git log
+  320  ls
+  321  vi file_norm01.py
+  322  ls
+  323  ls -lrt
+  324  mkdir pyregex
+  325  cd  pyregex/
+  326  vim filemake.py
+  327  vi filestomake.txt
+  328  vim filemake.py
+  329  vi filestomake.txt 
+  330  touch 18-10-2015output.log
+  331  vi filestomake.txt 
+  332  chmod +x filemake.py 
+  333  mv filemake.py filemaker.py 
+  334  ./filemaker.py 
+  335  ls -lrt
+  336  cp filestomake.txt  .. 
+  337  cp filemaker.py ..
+  338  rm -f *
+  339  cp ../filestomake.txt  ../filemaker.py  .<
+  340  cp ../filestomake.txt  ../filemaker.py  .
+  341  ls -lrt
+  342  vi filemaker.py 
+  343  ./filemaker.py 
+  344  ls -lrt
+  345  ls ..
+  346  rm -f *
+  347  ls
+  348  cp ../filestomake.txt  ../filemaker.py  .
+  349  ls -lrt
+  350  ls -rlt
+  351  vi filemaker.py 
+  352  ./filemaker.py 
+  353  ls -lrt
+  354  vi output2018-09-10log 
+  355  vi output2018-12-10last.log 
+  356  ls
+  357  vi build_inventory.py
+  358  vim pyregex01.py
+  359  chmod +x pyregex01.py 
+  360  ./pyregex01.py 
+  361  vim pyregex01.py
+  362  ./pyregex01.py 
+  363  vim pyregex01.py
+  364  ./pyregex01.py 
+  365  vim pyregex01.py
+  366  vi filestomake.txt 
+  367  mkdir ../t
+  368  cp * ../t
+  369  ./filemaker.py 
+  370  ls -lrt
+  371  cp  ../t .
+  372  cp  ../t/* .
+  373  ls -lrt
+  374  vim pyregex01.py
+  375  ./pyregex01.py 
+  376  vim pyregex01.py
+  377  ./pyregex01.py 
+  378  vim pyregex01.py
+  379  ./pyregex01.py 
+  380  vim pyregex01.py
+  381  ./pyregex01.py 
+  382  vim pyregex01.py
+  383  ./pyregex01.py 
+  384  cp pyregex01.py pyregex02.py 
+  385  vi pyregex02.py 
+  386  ./pyregex02.py 
+  387  vi pyregex02.py 
+  388  ./pyregex02.py 
+  389  vi pyregex02.py 
+  390  ./pyregex02.py 
+  391  vi pyregex02.py 
+  392  ./pyregex02.py 
+  393  mkdir output
+  394  ./pyregex02.py 
+  395  vi pyregex02.py 
+  396  ./pyregex02.py 
+  397  mkdir output
+  398  vi pyregex02.py 
+  399  ./pyregex02.py 
+  400  ls -lrt
+  401  ls -lrt output
+  402  ls
+  403  cd output/
+  404  ls -lrt
+  405  cat *
+  406  ls
+  407  ls -lrt
+  408  cd ..
+  409  ls
+  410  vi filemaker.py 
+  411  file pyregex02.py 
+  412  vi  pyregex02.py 
+  413  cd ..
+  414  git status
+  415  rm -rf t
+  416  ls -lrt
+  417  rm filestomake.txt  filemaker.py 
+  418  ls -lrt
+  419  cat file_norm01.py 
+  420  ls
+  421  git add .
+  422  git commit
+  423  git psh
+  424  git push
+  425  mkdir -p inv/dev/
+  426  cd ..
+  427  ls
+  428  wget https://alta3.com/static/projects/ansible/max_teardown.sh
+  429  ls -lrt
+  430  cat max_teardown.sh 
+  431  wget https://alta3.com/static/projects/ansible/modules/setup.sh -O mod-setup.sh
+  432  cat m
+  433  cat mod-setup.sh 
+  434  ls -lrt
+  435  bash max_teardown.sh 
+  436  bash mod-setup.sh 
+  437  cat max_teardown.sh 
+  438  ls -lrt
+  439  vi mod-setup.sh 
+  440  vi max_teardown.sh 
+  441  cd napya/
+  442  ls
+  443  cd ..
+  444  vp mod-setup.sh  max_teardown.sh  napya/
+  445  cp  mod-setup.sh  max_teardown.sh  napya/
+  446  cd napya/
+  447  git add mod-setup.sh  max_teardown.sh 
+  448  git commit -m "Add lab setup files"
+  449  ls
+  450  ls -lrt
+  451  mkdir python
+  452  git mv pyregex/ python/
+  453  git mv read_files/ python
+  454  git mv files01/ python/
+  455  git mv json/ python/
+  456  git mv excel/ python/
+  457  ls
+  458  ls -lrt
+  459  git mv error_handling/ python/
+  460  git mv file_norm01.py  python/
+  461  git mv data2.txt  python/
+  462  ls
+  463  git status
+  464  git
+  465  git add .
+  466  git commit -m "Move folders under python/"
+  467  git status
+  468  git push
+  469  vi inv/dev/hosts
+  470  vi playbook01.yml
+  471  ansible-playbook playbook01.yml  -i inv/dev/hosts 
+  472  vi playbook01.yml
+  473  ansible-playbook playbook01.yml  -i inv/dev/hosts 
+  474  vi playbook01.yml
+  475  ansible-playbook playbook01.yml  -i inv/dev/hosts 
+  476  ssh fry@10.10.2.4
+  477  ls
+  478  vi playbook01.yml
+  479  ansible-playbook playbook01.yml  -i inv/dev/hosts 
+  480  git status
+  481  git add . 
+  482  git commit -m "First ansible commit" 
+  483  git push
+  484  ~~~~~~~
+  485  ls
+  486  git statuss
+  487  git status
+  488  history 
+  489  vi playbook01.yml 
+  490  ansible-playbook playbook01.yml  -i inv/dev/hosts 
+  491  vi inventory
+  492  mv inventory  hosts.yml
+  493  mv hosts.yml  inv/dev/
+  494  ansible-playbook playbook01.yml  -i inv/dev/hosts.yml 
+  495  ls
+  496  vi inv.py
+  497  python3
+  498  vi inv.py
+  499  python3
+  500  ls
+  501  vi inv.py
+  502  chmod +x inv/dev/inv.
+  503  chmod +x inv.py 
+  504  ./inv
+  505  ./inv.py 
+  506  vi inv.py
+  507  ./inv.py 
+  508  vi inv.py
+  509  ./inv.py 
+  510  vi inv.py
+  511  ./inv.py 
+  512  vi inv.py
+  513  ./inv.py 
+  514  vi inv.py
+  515  ./inv.py 
+  516  ./inv.py  --list
+  517  ls
+  518  mv inv.py  generate_inventory.py
+  519  cp generate_inventory.py  inv/dev/
+  520  ls
+  521  ls -lrt
+  522  git status
+  523  git add .
+  524  git commit -m "Script to generate dynamic inventory"
+  525  git push
+  526  ansible -m setup -i inv/dev/generate_inventory.py 
+  527  ansible all -m setup -i inv/dev/generate_inventory.py 
+  528  ls 
+  529  history 
+  530  history  >> history_2019_10_01.txt
+  531  git add history_2019_10_01.txt 
+  532  git commit -m "Add bash history"
+  533  ls
+  534  ls -lrt
+  535  cp playbook01.yml  playbook02.yml 
+  536  vi playbook02.yml 
+  537  mkdir inv/hybrid
+  538  cp generate_inventory.py  inv/hybrid/
+  539  cp inv/dev/hosts inv/hybrid/
+  540  vi inv/hybrid/hosts 
+  541  pwd
+  542  vi playbook02.yml 
+  543  ansible-playbook playbook02.yml  -i inv/hybrid/
+  544  mkdir output
+  545  ansible-playbook playbook02.yml  -i inv/hybrid/
+  546  cd output/
+  547  ls -rlt
+  548  less \ hosts.env 
+  549  cd ..
+  550  vi playbook02.yml 
+  551  rm -rf output/
+  552  ansible-playbook playbook02.yml  -i inv/hybrid/
+  553  vi playbook02.yml 
+  554  ansible-playbook playbook02.yml  -i inv/hybrid/
+  555  ls -lrt
+  556  less output/hosts.env 
+  557  vi playbook02.yml 
+  558  ansible-playbook playbook02.yml  -i inv/hybrid/
+  559  vi playbook02.yml 
+  560  ansible-playbook playbook02.yml  -i inv/hybrid/
+  561  cat output/hosts_bender.env 
+  562  ansible-playbook playbook02.yml  -i inv/hybrid/
+  563  vi playbook02.yml 
+  564  ansible-playbook playbook02.yml  -i inv/hybrid/
+  565  cd output/
+  566  ls -lrt
+  567  less vars_fry.json 
+  568  vi playbook02.yml 
+  569  cd -
+  570  vi playbook02.yml 
+  571  ansible-playbook playbook02.yml  -i inv/hybrid/
+  572  cd output/
+  573  ls -lrt
+  574  less vars_fry.json1 
+  575  cd -
+  576  vi playbook02.yml 
+  577  git status
+  578  git add .
+  579  git commit -m "Data output"
+  580  git push
+  581  history |grep clone
+  582  history |grep git remote
+  583  history |grep "git remote"
+  584  ls
+  585  mkdir templates
+  586  mkdir ansible
+  587  mv playbook0* ansible/
+  588  mv inv/ ansible/
+  589  mv output/ ansible/
+  590  ls -rlt
+  591  mv generate_inventory.py  ansible/
+  592  ls
+  593  cd ansible/
+  594  ls
+  595  mkdir templates
+  596  vi template.j2
+  597  cp playbook02.yml  playbook03.yml
+  598  vim playbook03.yml 
+  599  mv template.j2  templates/
+  600  ls
+  601  vim playbook03.yml 
+  602  cat templates/template.j2 
+  603  ls
+  604  vim playbook03.yml 
+  605  ansible-playbook playbook03.yml  -i inv/hybrid/
+  606  vim playbook03.yml 
+  607  ansible-playbook playbook03.yml  -i inv/hybrid/
+  608  ssh bender@bender
+  609  ssh bender@10.10.2.3
+  610  ls
+  611  vi playbook03.yml 
+  612  ls
+  613  vi playbook03.yml 
+  614  vi templates/
+  615  vi templates/template.j2 
+  616  ansible-playbook playbook03.yml  -i inv/hybrid/
+  617  ssh bender@10.10.2.3
+  618  vi playbook04.yml
+  619  ansible-playbook playbook04.yml  -i inv/hybrid/
+  620  vi playbook04.yml
+  621  ansible-playbook playbook04.yml 
+  622  vi playbook04.yml
+  623  ansible-playbook playbook04.yml  -i "localhst,"
+  624  vi playbook04.yml
+  625  ansible-playbook playbook04.yml  -i "localhst,"
+  626  vi playbook04.yml
+  627  ansible-playbook playbook04.yml  -i "localhst,"
+  628* vi playbook04.yml -
+  629  ansible-playbook playbook04.yml  -i "localhst," -v
+  630  ls
+  631  vi templates/astros.j2
+  632  cp playbook04.yml  playbook05.yml
+  633  vi playbook05.yml 
+  634  ansible-playbook playbook05.yml  -i "localhst," -v
+  635  ls -lrt
+  636  ls -lrt ~
+  637  vi ~/2019-10-01_astros.iss.txt 
+  638  mkdir output
+  639  vi playbook05.yml 
+  640  ansible-playbook playbook05.yml  -i "localhst," -v
+  641  ls -lrt
+  642  vi output/2019-10-01_astros.iss.txt 
+  643  vi playbook05.yml 
+  644  vi ex1.txt
+  645  vi ex2.txt
+  646  ansible-playbook playbook05.yml  -i "localhst," -v
+  647  vi playbook05.yml 
+  648  vi ex1.txt
+  649  cp ex1.txt  ex2.txt 
+  650  vi ex2.txt 
+  651  vi playbook05.yml 
+  652  ansible-playbook playbook05.yml  -i "localhst," -v
+  653  vi playbook05.yml 
+  654  ansible-playbook playbook05.yml  -i "localhst," -v
+  655  vi playbook05.yml 
+  656  ls
+  657  mkdir wordpress
+  658  mkdir ansible-playbook-wordpress-nginx
+  659  git submodule add https://github.com/alta3/ansible-playbook-wordpress-nginx ansible-playbook-wordpress-nginx/
+  660  rm -rf ansible-playbook-wordpress-nginx/
+  661  git submodule add https://github.com/alta3/ansible-playbook-wordpress-nginx ansible-playbook-wordpress-nginx/
+  662  ls
+  663  cd ..
+  664  git status
+  665  git add .
+  666  git commit
+  667  git push
+  668  ls
+  669  cd ansible/ansible-playbook-wordpress-nginx/
+  670  ls
+  671  cd ..
+  672  ls
+  673  cd ansible-playbook-wordpress-nginx/
+  674  ls 
+  675  vi playbook.yml 
+  676  vi hosts 
+  677  ssh alta3.local
+  678  cd ..
+  679  ls
+  680  mkdir tuesday
+  681  mv *.txt generate_inventory.py  inv/ output/ templates/ tuesday/
+  682  ls -lrt
+  683  rm -rf wordpress/
+  684  ls
+  685  mv *.yml tuesday/
+  686  ls
+  687  git status
+  688  cd ..
+  689  git staut
+  690  git status
+  691  git add .
+  692  git commit -m "Move tuesday's ansible stuff to separate folder"
+  693  ls
+  694  history  >> history_2019_10_01_02.txt 

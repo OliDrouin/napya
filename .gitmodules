@@ -1,3 +1,6 @@
 [submodule "ansible/ansible-playbook-wordpress-nginx"]
 	path = ansible/ansible-playbook-wordpress-nginx
 	url = https://github.com/alta3/ansible-playbook-wordpress-nginx
+[submodule "napya20190930"]
+	path = napya20190930
+	url = git@github.com:rzfeeser/napya20190930

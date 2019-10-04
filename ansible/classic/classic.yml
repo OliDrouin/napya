@@ -1,0 +1,38 @@
+---
+- name: classic approach to playbooks
+  hosts: all
+
+  pre_tasks: 
+
+  roles:
+    - bootstrap
+    - webserver
+   
+  tasks: 
+    - name: Print to screen
+      debug:
+        msg: "This would print before any roles" 
+
+
+    - import_role:
+        name: naginx
+
+
+    - include_role:
+        name: webserver-db
+
+
+
+  post_tasks:
+
+  handlers:
+
+---
+- name: A second play
+  hosts: all
+  gather_facts: yes
+
+  tasks:
+
+
+
